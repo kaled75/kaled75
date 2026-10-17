@@ -1,4 +1,4 @@
-﻿<div align="center">
+div align="center">
 
   <img src="./assets/banner.jpg" alt="Khaled Alrammah Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
 
